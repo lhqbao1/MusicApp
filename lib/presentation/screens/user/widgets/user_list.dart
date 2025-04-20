@@ -119,7 +119,7 @@ class _UserSongListState extends State<UserSongList> {
                 }
                 return Center(
                   child: Text(
-                    'No favorite song found',
+                    'No favorite song founded',
                     style: TextStyle(
                       color: AppColors.primary,
                       fontSize: 18,
